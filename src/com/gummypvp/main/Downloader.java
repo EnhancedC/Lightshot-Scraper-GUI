@@ -179,9 +179,7 @@ class ScraperInterface extends JFrame {
 	
 	class RunButtonListener implements ActionListener {
 		
-		public RunButtonListener() {
-			
-		}
+		public RunButtonListener() { }
 		
 		@Override
 		public void actionPerformed(ActionEvent e) {
