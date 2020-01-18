@@ -1,0 +1,1 @@
+Lightshot Scraper GUI
