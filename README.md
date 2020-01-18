@@ -1,3 +1,3 @@
 Lightshot Scraper GUI
 
-This is for education use only
+This is for educational use only
